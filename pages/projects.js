@@ -1,6 +1,6 @@
 import Layout from "../components/layout";
-import Head from "next/head";
-
+import Head from "../components/header";
+import { useEffect, useState } from 'react'
 export default function Projects(){
     return(
         <Layout>
