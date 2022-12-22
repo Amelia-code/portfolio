@@ -3,6 +3,8 @@ import Layout from '../components/layout';
 import Hero from '../components/home/hero';
 import { useEffect, useState } from 'react';
 
+
+
 export default function Home() {
   return (
     <Layout>
